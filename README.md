@@ -1,5 +1,5 @@
-# 4QuestionFrame
-Shostack's 4 Question Frame for Threat Modeling 
+# Shostack's 4 Question Frame for Threat Modeling 
+
 
 1. **What are we working on?**
 2. **What can go wrong?**
