@@ -17,3 +17,5 @@ The authoritative reference is page 4, *Threat Modeling: Designing for Security*
 
 
 If you need a license, please treat it as CC-BY. Please call it "Shostack's 4 Question Frame for Threat Modeling." 
+
+MLA formated cite is: Shostack, Adam. Threat Modeling: Designing For Security. John Wiley & Sons, 2014.
