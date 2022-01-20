@@ -14,7 +14,7 @@ The authoritative reference is page 4, *Threat Modeling: Designing for Security*
 * Simplified the wording.
 * I'll regularly ask "did we do a good enough job?" The goal is not to do a good job at threat modeling, but to drive improvement to a system.
 
-
+There's a [60 second video](https://youtu.be/Yt0PhyEdZXU) that introduces the questions.
 
 If you need a license, please treat it as CC-BY. Please call it "Shostack's 4 Question Frame for Threat Modeling." 
 
