@@ -17,10 +17,12 @@ The authoritative reference is page 4, *Threat Modeling: Designing for Security*
 ## Nuances
 People will sometimes phrase the first question "what are we _building_" rather than _working on_. The "building" frame draws people towards a waterfall approach with the attendant problems.
 
-In the Threat Modeling Manifesto, the team had a preference for adding the word "enough" to the 4th question. I appreciate the lessened pressure, and miss the aspiration, and so keep the terse form here.
+In the Threat Modeling Manifesto, the team had a preference for adding the word "enough" to the 4th question: did we do a good *enough* job? I appreciate the lessened pressure, and miss the aspiration, and so keep the terse form here.
 
 There's a [60 second video](https://youtu.be/Yt0PhyEdZXU) that introduces the questions.
 
-If you need a license, please treat it as CC-BY. Please call it "Shostack's 4 Question Frame for Threat Modeling." 
+### Legalese, citations.
+
+I'm told lawyers have been concerned about quoting a complete thing, and assert that it pushes at the limits of fair use to use all 23 of these words as a unit. If you need a license, please treat it as CC-BY. Please call it "Shostack's Four Question Frame for Threat Modeling," or "Shostack's Four Question Framework." 
 
 MLA formated cite is: Shostack, Adam. *Threat Modeling: Designing For Security*. John Wiley & Sons, 2014.
