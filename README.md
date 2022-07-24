@@ -23,6 +23,6 @@ There's a [60 second video](https://youtu.be/Yt0PhyEdZXU) that introduces the qu
 
 ### Legalese, citations.
 
-I'm told lawyers have been concerned about quoting a complete thing, and assert that it pushes at the limits of fair use to use all 23 of these words as a unit. If you need a license, please treat it as CC-BY. Please call it "Shostack's Four Question Frame for Threat Modeling," or "Shostack's Four Question Framework." 
+I'm told some lawyers have been concerned about quoting a complete thing, and asserted that it pushes at the limits of fair use to use all 23 of these words as a unit. If you need a license, please treat it as CC-BY. Please call it "Shostack's Four Question Frame for Threat Modeling," or "Shostack's Four Question Framework." 
 
 MLA formated cite is: Shostack, Adam. *Threat Modeling: Designing For Security*. John Wiley & Sons, 2014.
