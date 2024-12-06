@@ -19,7 +19,7 @@ People will sometimes phrase the first question "what are we _building_" rather 
 
 In the Threat Modeling Manifesto, the team had a preference for adding the word "enough" to the 4th question: did we do a good *enough* job? I appreciate the lessened pressure, and miss the aspiration, and so keep the terse form here.
 
-There's a [60 second video](https://youtu.be/Yt0PhyEdZXU) that introduces the questions.
+There's a [60 second video](https://youtu.be/Yt0PhyEdZXU) that introduces the questions. There's a 2024 whitepaper, "Understanding the Four Question Framework for Threat Modeling" at shostack.org/whitepapers/
 
 ### Legalese, citations.
 
