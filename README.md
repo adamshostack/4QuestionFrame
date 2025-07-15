@@ -13,6 +13,7 @@ The authoritative reference is page 4, *Threat Modeling: Designing for Security*
 * "are" has replaced "should" in question 3, to be more focused on action
 * Simplified the wording.
 * I'll regularly ask "did we do a good enough job?" The goal is not to do a good job at threat modeling, but to drive improvement to a system.
+* "Working on" has replaced "building."
 
 ## Nuances
 People will sometimes phrase the first question "what are we _building_" rather than _working on_. The "building" frame draws people towards a waterfall approach with the attendant problems.
