@@ -15,6 +15,12 @@ The questions have evolved since they were listed in *Threat Modeling Designing 
 * I'll regularly ask "did we do a good enough job?" The goal is not to do a good job at threat modeling, but to drive improvement to a system.
 * "Working on" has replaced "building."
 
+# In the real world
+
+The Four Question Framework is widely adopted. Examples include:
+
+* [How Google Does it: Threat modeling, from basics to AI](https://cloud.google.com/transform/how-google-does-it-threat-modeling-from-basics-to-ai)
+* [Threat modeling your generative AI workload to evaluate security risk](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/) (AWS Security blog)
 
 
 ## Nuances
@@ -24,7 +30,7 @@ In the Threat Modeling Manifesto, the team had a preference for adding the word 
 
 The logic behind the questions as they now stand is laid out in a 2024 whitepaper, "Understanding the Four Question Framework for Threat Modeling" at [shostack.org/whitepapers/](https://shostack.org/whitepapers)
 
-### Legalese, citations.
+### Legalese, citating.
 
 I'm told some lawyers have been concerned about quoting a complete thing, and asserted that it pushes at the limits of fair use to use all 23 of these words as a unit. If you need a license, please treat it as CC-BY. Please call it "Shostack's Four Question Frame for Threat Modeling," or "Shostack's Four Question Framework." 
 
@@ -32,3 +38,6 @@ If you want the earliest form that's appropriate for a computer science citation
 MLA formatted cite is: Shostack, Adam. *Threat Modeling: Designing For Security*. John Wiley & Sons, 2014.
 
 If you want to refer to the current form, the whitepaper is best.
+
+
+
