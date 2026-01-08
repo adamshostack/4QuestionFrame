@@ -22,7 +22,7 @@ The Four Question Framework is widely adopted. Examples include:
 * [How Google Does it: Threat modeling, from basics to AI](https://cloud.google.com/transform/how-google-does-it-threat-modeling-from-basics-to-ai)
 * [Threat modeling your generative AI workload to evaluate security risk](https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/) (AWS Security blog)
 * [CMS Threat Modeling Handbook](https://security.cms.gov/learn/cms-threat-modeling-handbook) from the US Government Centers for Medicare and Medicaid Services
-* [The Threat Modeling Manifesto](https://threatmodelingmanifesto.org)
+* [The Threat Modeling Manifesto](https://threatmodelingmanifesto.org), by a group of individuals with years of experience threat modeling for security or privacy
 
 
 ## Nuances
